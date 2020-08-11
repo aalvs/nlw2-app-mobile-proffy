@@ -26,7 +26,7 @@ Você pode visualizar o layout do projeto no Figma! Layout criado por [Tiago Luc
 
 ---
 
-# ⚙ Funcionalidades da API
+# ⚙ Funcionalidades
 
 - Contagem de conexões realizadas na plataforma;
 - Listagem de professores disponíveis por disciplina;
