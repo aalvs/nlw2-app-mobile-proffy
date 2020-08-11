@@ -15,7 +15,7 @@ Next Level Week é um evento de uma semana com muito código, desafios e networ
 O Proffy é um aplicativo mobile de estudos on-line, onde alunos podem se conectar com professores </br> com o objetivo de ter aulas on-line.
 
 <div align='center'>
-<img src=".github/thumbnail.png">
+<img src=".github/thumbnail.png" width='250'>
 </div>
 
 # 🎨Layout
