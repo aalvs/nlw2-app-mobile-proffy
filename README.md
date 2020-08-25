@@ -73,4 +73,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 ---
 
-Feito com ♥ by [alvs](https://app.rocketseat.com.br/me/aalvs) durante a [NLW#2](https://nextlevelweek.com/).
+Feito com ♥ by [aalvs](https://app.rocketseat.com.br/me/aalvs) durante a [NLW#2](https://nextlevelweek.com/).
